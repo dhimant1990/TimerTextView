@@ -1,0 +1,3 @@
+include ':timertextview', ':timertextview-sample'
+
+rootProject.name = 'timertextview-root'
